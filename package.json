@@ -1,0 +1,28 @@
+{
+  "name": "js-hash",
+  "version": "0.0.1",
+  "description": "Algorithm for calculate string's hash value with pure Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node __test__/benchmark.js"
+  },
+  "dependencies": {
+    "tiock": "latest"
+  },
+  "keywords": [
+    "hash",
+    "BKDR",
+    "SDBM",
+    "RS",
+    "AP",
+    "JS",
+    "DEK",
+    "FNV",
+    "DJB",
+    "DJB2",
+    "PJW",
+    "ELF"
+  ],
+  "author": "程巍巍",
+  "license": "Apache-2.0"
+}
